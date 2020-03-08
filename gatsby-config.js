@@ -132,5 +132,6 @@ module.exports = {
         head: true,
       },
     },
+    `gatsby-plugin-react-helmet`,
   ],
 }

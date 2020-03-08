@@ -150,6 +150,22 @@ All the information that appear on your resume is in this file. With solely chan
 	- `luke-lightsaber`: light blue
 
 
+7. **Google Analytics**
+	```shell
+  plugins: [
+      // Make sure this plugin is first in the array of plugins
+      {
+        resolve: `gatsby-plugin-google-analytics`,
+        options: {
+          trackingId: "UA-111111111-1",
+          head: true,
+        },
+      },
+    ],
+	```
+	Add your Google Analytics tracking id here.
+
+
 ## Changing profile photo and favicon
 Simply replace the `profile.png` and `favicon.ico` files in the `/static` directory.
 

@@ -146,6 +146,9 @@ All the information that appear on your resume is in this file. With solely chan
 	- `luke-lightsaber`: light blue
 
 
+## Changing profile photo and favicon
+Simply replace the `profile.png` and `favicon.ico` files in the `/static` directory.
+
 
 ### Contributions
 PRs are welcome!

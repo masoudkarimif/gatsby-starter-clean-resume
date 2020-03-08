@@ -122,5 +122,15 @@ module.exports = {
     interests: ["Reading", "Programming", "Playing the violin", "Running", "Watching Monty Python and the Holy Grail"],
     available_themes: ["great-gatsby", "master-yoda", "wonder-woman", "darth-vader", "luke-lightsaber"],
     theme: "luke-lightsaber"
-  }
+  },
+  plugins: [
+    // Make sure this plugin is first in the array of plugins
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-111111111-1",
+        head: true,
+      },
+    },
+  ],
 }

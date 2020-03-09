@@ -5,7 +5,7 @@ module.exports = {
     role: `Software Developer`,
     email: `luke@thelightside.com`,
     socialMedia : [
-        {"name": "github", "link": "https://github.com"},
+        {"name": "github", "link": "https://github.com/masoudkarimif/gatsby-starter-clean-resume"},
         {"name": "linkedin", "link": "https://linkedin.com"},
         {"name": "facebook", "link": "https://facebook.com"},
         {"name": "twitter", "link": "https://twitter.com"},

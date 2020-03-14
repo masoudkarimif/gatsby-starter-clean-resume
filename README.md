@@ -167,6 +167,14 @@ All the information that appear on your resume is in this file. With solely chan
 	Add your Google Analytics tracking id here.
 
 
+8. **Fonts**
+	```shell
+    font: "default"
+	```
+
+  There are currently two fonts available: `default` which uses the `Helvetica` font; and `programmer` which uses the `IBM Plex Mono` from Google Fonts.
+
+
 ## Changing profile photo and favicon
 Simply replace the `profile.png` and `favicon.ico` files in the `/static` directory.
 

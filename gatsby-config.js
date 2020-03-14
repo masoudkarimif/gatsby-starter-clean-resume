@@ -28,8 +28,8 @@ module.exports = {
       during which he confronted the Sith Lord Darth Vader,
       whom he learned was in fact his father, Anakin Skywalker.
       With Luke's help, Anakin returned to the light side of the Force by destroying the Emperor at the cost of his own life,
-      fulfilling his destiny as the Chosen One.</p>
-      <p>You can find more information <a href="https://starwars.fandom.com/wiki/Luke_Skywalker" target="_blank" rel="noopener noreferrer">here</a>.</p>
+      fulfilling his destiny as the Chosen One. You can find more information <a href="https://starwars.fandom.com/wiki/Luke_Skywalker" target="_blank" rel="noopener noreferrer">here</a>.</p>
+      <p>See the PDF version of my resume <a href="#">here</a>.</p>
       <p>As you can see, it's possible to add HTML tags in your about page.</p>
       `,
     education: [

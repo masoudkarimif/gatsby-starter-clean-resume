@@ -165,7 +165,7 @@ All the information that appear on your resume is in this file. With solely chan
 
 <br/>
 
-7. **Google Analytics**
+8. **Google Analytics**
 
 	```shell
     plugins: [
@@ -183,7 +183,7 @@ All the information that appear on your resume is in this file. With solely chan
 
 <br/>
 
-8. **Fonts**
+9. **Fonts**
 
 	```shell
     font: "default"

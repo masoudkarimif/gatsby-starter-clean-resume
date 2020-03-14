@@ -45,6 +45,7 @@ Based on [gatsby-starter-hello-world](https://github.com/gatsbyjs/gatsby-starter
 All the information that appear on your resume is in this file. With solely changing the content of this file, you can customize the whole website. There's no need to change any other part of the code--although you're more than welcome to do so :)
 
 1. **Name, contact, and social media**
+
 	```shell
 	name: `Luke Skywalker`,
 	role: `Software Developer`,
@@ -62,6 +63,7 @@ All the information that appear on your resume is in this file. With solely chan
 <br/>
 
 2. **About**
+
 	```shell
 	about: `<p>The son of Jedi Knight Anakin Skywalker and Senator Padmé Amidala,
 	 Luke Skywalker was born along with his twin sister Leia in 19 BBY.</p>
@@ -72,6 +74,7 @@ All the information that appear on your resume is in this file. With solely chan
 <br/>
 
 3. **Education**
+
 	```shell
 	education: [
 	      {
@@ -89,6 +92,7 @@ All the information that appear on your resume is in this file. With solely chan
 <br/>
 
 4. **Experience**
+
 	```shell
 	experience: [
 	        {
@@ -112,6 +116,7 @@ All the information that appear on your resume is in this file. With solely chan
 <br/>
 
 5. **Skills**
+
 	```shell
 	skills: [
 	      {
@@ -131,6 +136,7 @@ All the information that appear on your resume is in this file. With solely chan
 <br/>
 
 6. **Interests**
+
 	```shell
 	  interests: [
 		    "Reading",
@@ -145,6 +151,7 @@ All the information that appear on your resume is in this file. With solely chan
 <br/>
 
 7. **Themes**
+
 	```shell
 	theme: "great-gatsby"
 	```
@@ -159,6 +166,7 @@ All the information that appear on your resume is in this file. With solely chan
 <br/>
 
 7. **Google Analytics**
+
 	```shell
     plugins: [
         // Make sure this plugin is first in the array of plugins
@@ -176,11 +184,12 @@ All the information that appear on your resume is in this file. With solely chan
 <br/>
 
 8. **Fonts**
+
 	```shell
     font: "default"
 	```
 
-  There are currently two fonts available: `default` which uses the `Helvetica` font; and `programmer` which uses the `IBM Plex Mono` from Google Fonts.
+    There are currently two fonts available: `default` which uses the `Helvetica` font; and `programmer` which uses the `IBM Plex Mono` from Google Fonts.
 
 
 ## Changing profile photo and favicon

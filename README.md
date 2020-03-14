@@ -59,6 +59,7 @@ All the information that appear on your resume is in this file. With solely chan
 	```
 	You can simply delete any social link you want by removing the corresponding object (line) and it won't appear on your website. You can also add more social media links. This project uses the [react-social-icons](https://www.npmjs.com/package/react-social-icons) library. You can find the list of supported icons [here](http://jaketrent.github.io/react-social-icons/).
 
+<br/>
 
 2. **About**
 	```shell
@@ -68,6 +69,7 @@ All the information that appear on your resume is in this file. With solely chan
 	```
 	Anything that you put here will appear under About page, which is the main page of the website. As you can see, you can also include `HTML` tags.
 
+<br/>
 
 3. **Education**
 	```shell
@@ -84,6 +86,7 @@ All the information that appear on your resume is in this file. With solely chan
 	```
 	Here you will add you educational background by appending similar items to the `education` array. You can also remove fields you don't like (like `major`, or the name of the `school`) and it won't appear on your website.
 
+<br/>
 
 4. **Experience**
 	```shell
@@ -106,6 +109,7 @@ All the information that appear on your resume is in this file. With solely chan
 	```
 	This is where you will talk about your experience.
 
+<br/>
 
 5. **Skills**
 	```shell
@@ -124,6 +128,7 @@ All the information that appear on your resume is in this file. With solely chan
 	```
 	You will specify your skill set here. The `level` parameter should be between **0** and **100**.
 
+<br/>
 
 6. **Interests**
 	```shell
@@ -137,6 +142,7 @@ All the information that appear on your resume is in this file. With solely chan
 	```
 	Here you will list your Interests for the Interests page.
 
+<br/>
 
 7. **Themes**
 	```shell
@@ -150,6 +156,7 @@ All the information that appear on your resume is in this file. With solely chan
 	- `darth-vader`: black
 	- `luke-lightsaber`: light blue
 
+<br/>
 
 7. **Google Analytics**
 	```shell
@@ -166,6 +173,7 @@ All the information that appear on your resume is in this file. With solely chan
 	```
 	Add your Google Analytics tracking id here.
 
+<br/>
 
 8. **Fonts**
 	```shell

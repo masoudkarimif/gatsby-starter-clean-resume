@@ -314,3 +314,8 @@
  .theme-master-yoda .site-header {
      border-top-color: #5f7f54;
 }
+
+
+body {
+  font-family: "IBM Plex Mono";
+}

@@ -16,12 +16,14 @@ const Layout = (props)=> {
                 email
                 socialMedia {name, link}
                 theme
+                font
               }
             }
           }
         `)
 
     const theme = data.site.siteMetadata.theme || "great-gatsby";
+    const font = data.site.siteMetadata.font || "default";
     return (
       <>
         <Helmet>
@@ -29,7 +31,7 @@ const Layout = (props)=> {
 					 <meta name="description" content={props.pageDescription || ""} />
         </Helmet>
 
-        <div id="site-wrapper" className={"theme-" + theme.toLowerCase()}>
+        <div id="site-wrapper" className={"theme-" + theme.toLowerCase() + " font-" + font}>
             <Menu
                 currentPage={props.pageTitle}
                 name={data.site.siteMetadata.name} />

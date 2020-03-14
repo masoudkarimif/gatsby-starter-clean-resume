@@ -122,7 +122,7 @@ module.exports = {
     interests: ["Reading", "Programming", "Playing the violin", "Running", "Watching Monty Python and the Holy Grail"],
     available_themes: ["great-gatsby", "master-yoda", "wonder-woman", "darth-vader", "luke-lightsaber"],
     theme: "great-gatsby",
-    
+
     //fonts. Available: [defautl, programmer]
     font: "programmer"
   },

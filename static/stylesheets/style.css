@@ -316,6 +316,7 @@
 }
 
 
-body {
+.font-programmer {
   font-family: "IBM Plex Mono";
+  font-size: .9em;
 }

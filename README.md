@@ -40,7 +40,7 @@ Based on [gatsby-starter-hello-world](https://github.com/gatsbyjs/gatsby-starter
 
     Open the `my-resume-starter` directory in your code editor of choice and edit `gatsby-config.js`. Save your changes and the browser will update in real time!
 
-## Customizing the `gatsby-config.js`
+## Customizing `gatsby-config.js`
 
 All the information that appear on your resume is in this file. With solely changing the content of this file, you can customize the whole website. There's no need to change any other part of the code--although you're more than welcome to do so :)
 

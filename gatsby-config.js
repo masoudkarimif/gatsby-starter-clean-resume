@@ -1,6 +1,7 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
+		siteUrl: `https://gatsby-starter-clean-resume.netlify.com/`,
     name: `Luke Skywalker`,
     role: `Software Developer`,
     email: `luke@thelightside.com`,

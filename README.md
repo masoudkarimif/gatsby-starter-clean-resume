@@ -192,6 +192,16 @@ All the information that appear on your resume is in this file. With solely chan
     There are currently two fonts available: `default` which uses the `Helvetica` font; and `programmer` which uses the `IBM Plex Mono` from Google Fonts.
 
 
+<br/>
+
+10. **Sitemap**
+
+	```shell
+    siteUrl: "YOUR_SITE_URL"
+	```
+
+    Sitemap plugin from Gatsby needs you to put your site url here. Currently, it's the url of the demo site; so just replace it with yours.
+
 ## Changing profile photo and favicon
 Simply replace the `profile.png` and `favicon.ico` files in the `/static` directory.
 

@@ -202,13 +202,18 @@ All the information that appear on your resume is in this file. With solely chan
 
     Sitemap plugin from Gatsby needs you to put your site url here. Currently, it's the url of the demo site; so just replace it with yours.
 
+
+## AWS build file
+You can use the `buildspec.yml` file in the root directory for AWS CodeBuild. You just need to define an environment variable named `BUCKET` inside your CodeBuild project that points to the S3 bucket you want to deploy your website from. 
+
+
 ## Changing profile photo and favicon
 Simply replace the `profile.png` and `favicon.ico` files in the `/static` directory.
 
 
-### Contributions
+## Contributions
 PRs are welcome!
 
 
-### License
+## License
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](LICENSE)

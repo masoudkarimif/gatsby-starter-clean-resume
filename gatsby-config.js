@@ -145,6 +145,7 @@ module.exports = {
     },
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sitemap`,
+		`gatsby-plugin-less`,
     {
       resolve: `gatsby-plugin-prefetch-google-fonts`,
       options: {

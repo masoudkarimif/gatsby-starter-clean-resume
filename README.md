@@ -2,7 +2,9 @@
 
 Build an online version of your resume in just a few minutes with this clean-resume boilerplate.
 
-Check the live demo [here](https://gatsby-starter-clean-resume.netlify.com/).
+Check out the live demo [here](https://gatsby-starter-clean-resume.netlify.com/).
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/49be9899-b238-49c1-8de3-3f0de450d5bf/deploy-status)](https://app.netlify.com/sites/gatsby-starter-clean-resume/deploys)
 
 Based on [gatsby-starter-hello-world](https://github.com/gatsbyjs/gatsby-starter-hello-world). This project uses the [Milligram](https://github.com/milligram/milligram) framework for styling.
 

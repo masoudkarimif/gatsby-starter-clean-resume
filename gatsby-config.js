@@ -147,13 +147,12 @@ module.exports = {
     `gatsby-plugin-sitemap`,
 		`gatsby-plugin-less`,
     {
-      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      resolve: `gatsby-plugin-google-fonts`,
       options: {
         fonts: [
-          {
-            family: `IBM Plex Mono`,
-          },
+            `IBM Plex Mono`,
         ],
+				display: 'swap'
       },
     },
   ],

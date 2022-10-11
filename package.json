@@ -14,12 +14,12 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
-    "gatsby": "^2.30.1",
-    "gatsby-plugin-google-analytics": "^2.1.37",
+    "gatsby": "^4.24.4",
+    "gatsby-plugin-google-analytics": "^4.24.0",
     "gatsby-plugin-google-fonts": "^1.0.1",
-    "gatsby-plugin-less": "^3.1.3",
-    "gatsby-plugin-react-helmet": "^3.1.23",
-    "gatsby-plugin-sitemap": "^2.3.1",
+    "gatsby-plugin-less": "^6.24.0",
+    "gatsby-plugin-react-helmet": "^5.24.0",
+    "gatsby-plugin-sitemap": "^5.24.0",
     "less": "^3.11.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
